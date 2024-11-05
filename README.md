@@ -1,3 +1,5 @@
+<sup> Below you find the answer to exercise 3, PS2, D100. While the author is fully aware of the relevance of testing and documentation, these steps were ommitted due to the factor of time. </sup>
+
 # NBA Data-Insights
 ## The remarkable story of the rise of the 3-point shot
 In the last 30 years of the NBA, the 3-point shot became increasingly popular. At the forefront of this rise stands Steph Curry, the baby-faced assasin from the Golden States Warriors. Few have made the 3-point focused playing style look so appealing as Curry. However, the 3-point shot has been on the rise long before Curry's first appearance (in 2009 with the Warriors). This notebook examines the story of the 3-point shot using four insights drawn from NBA data.
