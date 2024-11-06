@@ -160,7 +160,10 @@ The aforementioned Steph Curry, famous for his 3-point shot, plays since 2009 fo
 
 To track the dominance of the Warriors, we examine the win percentage of various Western Conference team using an MA(41) moving average process.
 
-$$ Win Percentage MA(41) = \frac{1}{41}\sum^{41}_{i}(GameWon_{i})$$
+$$
+\text{Win Percentage MA(41)} = \frac{1}{41} \sum_{i=1}^{41} \text{GameWon}_{i}
+$$
+
 
 - **GameWon**: A binary variable (0 or 1) indicating whether the team won (1) or lost (0).
 
